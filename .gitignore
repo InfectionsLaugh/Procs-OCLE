@@ -1,0 +1,12 @@
+# Compiladores y Ensambladores
+/C
+/TurboC
+/vim
+/vim80-586rt
+
+# Ejecutables
+*.exe
+*.map
+*.obj
+*.ink
+*.zip
